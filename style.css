@@ -222,7 +222,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px){
     #header{
         background-image: url("phone2.png");
-        background-color:#cccccc;
+        background:#ffcc00;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
