@@ -219,7 +219,7 @@ nav .fa-solid{
 
 
 /* ---------responsive website------------ */
-@media only screen and (max-width: 265px){
+@media only screen and (max-width: 260px){
     #header{
         background-image: url("phone2.png");
         background-color:#ffcc00;
